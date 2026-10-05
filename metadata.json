@@ -1,0 +1,6 @@
+{
+  "name": "極限空戰 1944 (AirAttack 1944)",
+  "description": "3D 二戰縱軸空戰遊戲：空戰機砲、戰術投彈轟炸、破壞地面設施、巨型 Boss 戰與電影級聲光特效",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
